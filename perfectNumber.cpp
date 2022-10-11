@@ -2,6 +2,9 @@
 using namespace std;
 
 int main(){
+    //======<<<<<<This is for Perfect Number Checker >>>>==============
+    
+    
     // int number,sum;
     // sum=0;
     // cout<<"Enter Your Number :";
@@ -18,6 +21,9 @@ int main(){
     // else{
     //     cout<<number<<" is not a Perfect Number";
     // }
+    
+    //======<<<<<<This is for Perfect Number Generator >>>>==============
+    
     int number,sum;
     sum=0;
     cout<<"Enter Your Number :";
